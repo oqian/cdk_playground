@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "integ-test": "integ-runner --directory ./tests --language python --verbose --update-on-failed --parallel-regions us-west-2 --profiles Louvre"
+    }
+}
